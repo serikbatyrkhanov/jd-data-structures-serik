@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStructures-09-Sorting/DataStructures-09-Sorting.iml" filepath="$PROJECT_DIR$/DataStructures-09-Sorting/DataStructures-09-Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jd-data-structures-serik.iml" filepath="$PROJECT_DIR$/jd-data-structures-serik.iml" />
+    </modules>
+  </component>
+</project>
